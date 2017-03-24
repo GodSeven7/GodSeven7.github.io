@@ -23,7 +23,7 @@ title: My First Blog!
 
 
 <font color="#FF0000">整理第一篇博客花了不少时间，顺带学习了一下html的简单显示语法，以后可以让自己的博客越来越美美哒~</font>
-![_config.yml]({{ site.baseurl }}/images/badsmile.jpg)![_config.yml]({{ site.baseurl }}/images/badsmile.jpg)![_config.yml]({{ site.baseurl }}/images/badsmile.jpg)
+<img src=![_config.yml]({{ site.baseurl }}/images/badsmile.jpg) width="50"><img src=![_config.yml]({{ site.baseurl }}/images/badsmile.jpg) width="50"><img src=![_config.yml]({{ site.baseurl }}/images/badsmile.jpg) width="50">
 
 
 最后附上一张图，给自恋的自己~
